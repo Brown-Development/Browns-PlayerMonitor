@@ -18,11 +18,11 @@ This is good for monitoring suspicious or new players as it will continuously lo
 
 # Screenshots: https://imgur.com/a/6bDf9jA
 
-# Framework Compatibility:
-QBCore 
+Framework Compatibility:
+QBCore, 
 ESX
 
-# Depencencies:
-oxmysql
-ox_lib
+Depencencies:
+oxmysql,
+ox_lib,
 screenshot-basic
