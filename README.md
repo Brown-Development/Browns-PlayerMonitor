@@ -17,3 +17,12 @@ Once the player is added to be auto monitored then after every minute (or howeve
 This is good for monitoring suspicious or new players as it will continuously log screenshots of them every x amount of minutes throughout the day every time they join the server and it wont stop until you remove them from being monitored with the command 
 
 # Screenshots: https://imgur.com/a/6bDf9jA
+
+# Framework Compatibility:
+QBCore 
+ESX
+
+# Depencencies:
+oxmysql
+ox_lib
+screenshot-basic
