@@ -26,9 +26,7 @@ lib.addCommand(config.command, {
             break
         end
     end
-    print(thisLicense)
     for _, auth in ipairs(config.authorized) do 
-        print(thisLicense)
         if auth.license == thisLicense then 
             accessGranted = true 
             break 
